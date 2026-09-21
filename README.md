@@ -35,3 +35,11 @@ This section was created in the branch_pr branch.
 - Commit
 - Push
 - Pull Request
+
+## Collaborator Practice
+
+- Contributor: Yunho Lee
+- Student ID: 2022204025
+- Role: Collaborator
+
+I modified this README through a collaborator branch.
