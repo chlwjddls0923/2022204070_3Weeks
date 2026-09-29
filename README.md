@@ -43,3 +43,11 @@ This section was created in the branch_pr branch.
 - Role: Collaborator
 
 I modified this README through a collaborator branch.
+
+## Fork Practice
+
+- Contributor: Yunho Lee
+- Student ID: 2022204025
+- Method: Fork & Pull Request
+
+This contribution was created from a forked repository.
